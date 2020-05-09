@@ -20,11 +20,33 @@ public class Testapp {
 	public void testMainPage()
 	{
 		
-		 //JWebUnit.beginAt("/");
-		//JWebUnit.setTextField("x", "1");
-		// JWebUnit.setTextField("y", "2");
 		
-		 //JWebUnit.clickButton("add");
-		 //JWebUnit.assertMatchInElement("result", "[0-9]+");
 	}
+	
+	
+	@Test
+	public void testadd()
+	{
+		
+		
+	}
+	
+
+	
+	@Test
+	public void testSub()
+	{
+		
+		
+	}
+	
+	@Test
+	public void testMul()
+	{
+		
+		
+	}
+	
+	
+	
 }

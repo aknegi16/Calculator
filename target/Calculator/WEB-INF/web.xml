@@ -3,7 +3,7 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application</display-name>
+  <display-name>Calculator</display-name>
   <servlet>
   	<servlet-name>Server</servlet-name>
   	<display-name>Server</display-name>
@@ -12,6 +12,8 @@
   </servlet>
   <servlet-mapping>
   	<servlet-name>Server</servlet-name>
-  	<url-pattern>/</url-pattern>
+  	<url-pattern></url-pattern>
   </servlet-mapping>
+  
+
 </web-app>
